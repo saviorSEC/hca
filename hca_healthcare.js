@@ -1067,11 +1067,11 @@ const NET_INT = {
    "z-corp"
   ],
   [
-   "s-p-as14626",
+   "p-as14626",
    "z-enterprise"
   ],
   [
-   "s-p-azure-edge",
+   "p-azure-edge",
    "z-cloud"
   ]
  ]
